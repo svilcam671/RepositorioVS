@@ -13,3 +13,11 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+p {
+    font-style: italic;
+    color: #555;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+}
